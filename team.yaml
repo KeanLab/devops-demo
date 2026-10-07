@@ -1,0 +1,11 @@
+project:
+  name: devops-demo
+  repository: https://github.com/KeanLab/devops-demo
+  stages:
+    - plan
+    - develop
+    - test
+    - release
+  contacts:
+    manager: manager@example.test
+    channel: devops-demo
